@@ -1,0 +1,120 @@
+#EXTM3U SophTV
+
+#EXTINF:-1 ,ES: HBO
+http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/18006.ts
+#EXTINF:-1 ,LATINO: HBO
+http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/68062.ts
+#EXTINF:-1 ,US: HBO EAST
+http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/68059.ts
+#EXTINF:-1 ,US: HBO WEST
+http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/60213.ts
+#EXTINF:-1 ,ES: HBO2
+http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/35795.ts
+#EXTINF:-1 ,LATINO: HBO2
+http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/68067.ts
+#EXTINF:-1 ,US: HBO2 EAST
+http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/68066.ts
+#EXTINF:-1 ,US: HBO2 WEST
+http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/53417.ts
+#EXTINF:-1 ,ES: HBO+
+http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/35793.ts
+#EXTINF:-1 ,LATINO: HBO+
+http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/60529.ts
+#EXTINF:-1 ,MAX: HBO+
+http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/18004.ts
+#EXTINF:-1 ,US: HBO+ EAST
+http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/60217.ts
+#EXTINF:-1 ,US: HBO+ WEST
+http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/17923.ts
+#EXTINF:-1 ,ES:HBO SIGNATURE
+http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/18002.ts
+#EXTINF:-1 ,LATINO:HBO SIGNATURE
+http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/68061.ts
+#EXTINF:-1 ,US:HBO SIGNATURE EAST
+http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/68060.ts
+#EXTINF:-1 ,US:HBO SIGNATURE WEST
+http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/35792.ts
+#EXTINF:-1 ,ES: HBO FAMILY
+http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/18005.ts
+#EXTINF:-1 ,LATINO: HBO FAMILY
+http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/35794.ts
+#EXTINF:-1 ,US: HBO FAMILY EAST
+http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/53478.ts
+#EXTINF:-1 ,US: HBO FAMILY WEST
+http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/68063.ts
+#EXTINF:-1 ,LATINO: ESPN
+http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/58551.ts
+#EXTINF:-1 ,LATINO: ESPN DEPORTE
+http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/68070.ts
+#EXTINF:-1 ,LATINO: ESPN2
+http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/58553.ts
+#EXTINF:-1 ,LATINO: ESPN3
+http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/58552.ts
+#EXTINF:-1 ,LATINO: ESPN+
+http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/58550.ts
+#EXTINF:-1 ,US: ESPN
+http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/55920.ts
+#EXTINF:-1 ,US: ESPN2
+http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/55919.ts
+#EXTINF:-1 ,US: ESPNU
+http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/58549.ts
+#EXTINF:-1 ,US: ESPN NETWORK
+http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/58744.ts
+#EXTINF:-1 ,LATINO: FOX
+http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/70138.ts
+#EXTINF:-1 ,ES: FOX CHANNEL
+http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/60555.ts
+#EXTINF:-1 ,LATINO: FOX CHANNEL
+http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/58543.ts
+#EXTINF:-1 ,LATINO: FOX CINEMA
+http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/58541.ts
+#EXTINF:-1 ,ES: FOX LIFE
+http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/70251.ts
+#EXTINF:-1 ,LATINO: FOX LIFE
+http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/58538.ts
+#EXTINF:-1 ,LATINO: FOX CLASSICS
+http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/35812.ts
+#EXTINF:-1 ,LATINO: FOX MOVIE
+http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/58537.ts
+#EXTINF:-1 ,ES: FOX SERIES
+http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/60544.ts
+#EXTINF:-1 ,LATINO: FOX SERIES
+http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/35806.ts
+#EXTINF:-1 ,LATINO: FOX ACTION
+http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/58542.ts
+#EXTINF:-1 ,ES: FOX FAMILY
+http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/60547.ts
+#EXTINF:-1 ,LATINO: FOX FAMILY
+http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/35804.ts
+#EXTINF:-1 ,LATINO: FOX COMEDY
+http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/35811.ts
+#EXTINF:-1 ,ES: FOX SPORT
+http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/35809.ts
+#EXTINF:-1 ,LATINO: FOX SPORT
+http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/53526.ts
+#EXTINF:-1 ,ES: FOX SPORT2
+http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/35808.ts
+#EXTINF:-1 ,LATINO: FOX SPORT2
+http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/53524.ts
+#EXTINF:-1 ,ES: FOX SPORT3
+http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/35807.ts
+#EXTINF:-1 ,LATINO: FOX SPORT3
+http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/53522.ts
+#EXTINF:-1 ,LATINO: FOX DEPORTE
+http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/55820.ts
+#EXTINF:-1 ,LATINO:FOX SPORTS PREMIUM
+http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/60540.ts
+#EXTINF:-1 ,US: FOX SOCCER PlUS
+http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/71625.ts
+#EXTINF:-1 ,US: FOX SPORT
+http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/70189.ts
+#EXTINF:-1 ,US: FOX25
+http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/68069.ts
+#EXTINF:-1 ,US: FOX NEWS
+http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/877.ts
+#EXTINF:-1 ,US: FOX MIAMI
+http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/55889.ts
+#EXTINF:-1 ,US: FOX PREMIUM 1
+http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/66780.ts
+#EXTINF:-1 ,US: FOX PREMIUM 2
+http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/66779.ts
