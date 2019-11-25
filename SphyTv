@@ -1,5 +1,51 @@
 #EXTM3U SophTV
 
+#EXTINF:-1 ,MUSIC: M20 TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 ,MUSIC: MUSIC CHOICE
+https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:-1 ,MUSIC: ONE
+http://rtmp.one.by:1300
+#EXTINF:-1 ,MUSIC: DJING
+http://www.djing.com/tv/ibiza.m3u8
+#EXTINF:-1 ,MUSIC: Portal FoxMix
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
+#EXTINF:-1 ,MUSIC: RD 105 NETWORK
+http://fms.105.net:1935/live/105Test1/playlist.m3u8
+#EXTINF:-1 ,MUSIC: RD CAPITAL TV
+http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-p.m3u8?sd=10&rebase=on?e74
+#EXTINF:-1 ,MUSIC: RETRO MUSIC
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:-1 ,LAT: 24/7 - La Rosa De Guadalupe
+http://plexonline.club:25461/live/xactivador1a/xdractiva/350.ts
+#EXTINF:-1 ,LAT: 24/7 - Futurama
+http://plexonline.club:25461/live/xactivador1a/xdractiva/351.ts
+#EXTINF:-1 ,LAT: 24/7 - Super Campeones
+http://plexonline.club:25461/live/xactivador1a/xdractiva/113.ts
+#EXTINF:-1 ,LAT: 24/7 - South Park
+http://plexonline.club:25461/live/xactivador1a/xdractiva/116.ts
+#EXTINF:-1 ,LAT: 24/7 - Los Simpson
+http://plexonline.club:25461/live/xactivador1a/xdractiva/118.ts
+#EXTINF:-1 ,LAT: 24/7 - Naruto
+http://plexonline.club:25461/live/xactivador1a/xdractiva/126.ts
+#EXTINF:-1 ,LAT: 24/7 - Juego de Tronos
+http://plexonline.club:25461/live/xactivador1a/xdractiva/104.ts
+#EXTINF:-1 ,LAT: 24/7 - The Walking Dead
+http://plexonline.club:25461/live/xactivador1a/xdractiva/110.ts
+#EXTINF:-1 ,LAT: 24/7 - Breaking Bad
+http://plexonline.club:25461/live/xactivador1a/xdractiva/100.ts
+#EXTINF:-1 ,LAT: 24/7 - Desafio Sobre Fuego
+http://plexonline.club:25461/live/xactivador1a/xdractiva/108.ts
+#EXTINF:-1 ,LAT: 24/7 - CSI Miami
+http://plexonline.club:25461/live/xactivador1a/xdractiva/101.ts
+#EXTINF:-1 ,LAT: 24/7 - Casa De Papel
+http://plexonline.club:25461/live/xactivador1a/xdractiva/143.ts
+#EXTINF:-1 ,LAT: 24/7 - Bob Esponja
+http://plexonline.club:25461/live/xactivador1a/xdractiva/146.ts
+#EXTINF:-1 ,LAT: 24/7 - Corre Caminos
+http://plexonline.club:25461/live/xactivador1a/xdractiva/10.ts
+#EXTINF:-1 ,LAT: 24/7 - La Pantera Rosa
+http://plexonline.club:25461/live/xactivador1a/xdractiva/5.ts
 #EXTINF:-1 ,ES: HBO
 http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/18006.ts
 #EXTINF:-1 ,LATINO: HBO
